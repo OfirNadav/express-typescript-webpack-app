@@ -7,8 +7,8 @@
 ## How to run
 
 ```
-git clone https://github.com/john555/express-app-typescript.git
-cd express-app-typescrip
+git clone https://github.com/OfirNadav/express-typescript-webpack-app
+cd express-typescript-webpack-app
 npm install
-npm run env:dev
+npm start
 ```
